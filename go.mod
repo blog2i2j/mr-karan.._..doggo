@@ -15,14 +15,14 @@ require (
 	github.com/knadh/koanf/v2 v2.3.0
 	github.com/miekg/dns v1.1.69
 	github.com/olekukonko/tablewriter v1.1.2
-	github.com/quic-go/quic-go v0.57.1
+	github.com/quic-go/quic-go v0.58.0
 	github.com/spf13/pflag v1.0.10
 	golang.org/x/net v0.48.0
 	golang.org/x/sys v0.39.0
 )
 
 require (
-	github.com/AdguardTeam/golibs v0.35.5 // indirect
+	github.com/AdguardTeam/golibs v0.35.7 // indirect
 	github.com/andybalholm/brotli v1.2.0 // indirect
 	github.com/clipperhouse/displaywidth v0.6.2 // indirect
 	github.com/clipperhouse/stringish v0.1.1 // indirect
@@ -39,7 +39,6 @@ require (
 	github.com/olekukonko/errors v1.1.0 // indirect
 	github.com/olekukonko/ll v0.1.3 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
-	github.com/rivo/uniseg v0.4.7 // indirect
 	go.uber.org/mock v0.6.0 // indirect
 	golang.org/x/crypto v0.46.0 // indirect
 	golang.org/x/exp v0.0.0-20251219203646-944ab1f22d93 // indirect
