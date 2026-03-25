@@ -36,7 +36,7 @@ export default defineConfig({
             { label: "DNS over HTTPS (DoH)", link: "/resolvers/doh" },
             { label: "DNS over TLS (DoT)", link: "/resolvers/dot" },
             { label: "DNSCrypt", link: "/resolvers/dnscrypt" },
-            { label: "DNS over HTTPS (DoQ)", link: "/resolvers/quic" },
+            { label: "DNS over QUIC (DoQ)", link: "/resolvers/quic" },
           ],
         },
         {
